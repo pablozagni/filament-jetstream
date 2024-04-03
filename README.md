@@ -9,4 +9,7 @@
 - Intall Laravel lang:
     - composer require --dev laravel-lang/common
     - php artisan lang:update
-
+- read https://filamentphp.com/docs/3.x/panels/users
+    - enable panel access
+    - enable user avatar
+    
